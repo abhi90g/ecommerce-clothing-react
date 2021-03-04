@@ -9,7 +9,7 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename='/ecommerce-clothing-react'>
       <App />
     </BrowserRouter>
   </React.StrictMode>,
