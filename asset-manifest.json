@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ecommerce-clothing-react/static/css/main.f0d96cae.chunk.css",
-    "main.js": "/ecommerce-clothing-react/static/js/main.d01715ba.chunk.js",
-    "main.js.map": "/ecommerce-clothing-react/static/js/main.d01715ba.chunk.js.map",
+    "main.css": "/ecommerce-clothing-react/static/css/main.a2a223bf.chunk.css",
+    "main.js": "/ecommerce-clothing-react/static/js/main.f00da3b7.chunk.js",
+    "main.js.map": "/ecommerce-clothing-react/static/js/main.f00da3b7.chunk.js.map",
     "runtime-main.js": "/ecommerce-clothing-react/static/js/runtime-main.4632ffdc.js",
     "runtime-main.js.map": "/ecommerce-clothing-react/static/js/runtime-main.4632ffdc.js.map",
     "static/js/2.1b1268f5.chunk.js": "/ecommerce-clothing-react/static/js/2.1b1268f5.chunk.js",
@@ -12,13 +12,13 @@
     "index.html": "/ecommerce-clothing-react/index.html",
     "service-worker.js": "/ecommerce-clothing-react/service-worker.js",
     "service-worker.js.map": "/ecommerce-clothing-react/service-worker.js.map",
-    "static/css/main.f0d96cae.chunk.css.map": "/ecommerce-clothing-react/static/css/main.f0d96cae.chunk.css.map",
+    "static/css/main.a2a223bf.chunk.css.map": "/ecommerce-clothing-react/static/css/main.a2a223bf.chunk.css.map",
     "static/js/2.1b1268f5.chunk.js.LICENSE.txt": "/ecommerce-clothing-react/static/js/2.1b1268f5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4632ffdc.js",
     "static/js/2.1b1268f5.chunk.js",
-    "static/css/main.f0d96cae.chunk.css",
-    "static/js/main.d01715ba.chunk.js"
+    "static/css/main.a2a223bf.chunk.css",
+    "static/js/main.f00da3b7.chunk.js"
   ]
 }
